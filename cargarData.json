@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Maman Brigitte",
+    "pantheon": "VUDÚ",
+    "role": "MAGO",
+    "lore": "Se dice que dondequiera que haya fiesta, Maman Brigitte no estará lejos. Deambula entre los cementerios del mundo, apareciendo ante sus adoradores como una joven elegante y a veces fantasiosa con una taza de ron con pimiento picante en una mano y un cigarro en la otra. Reparte sabiduría e insultos por igual, sin dudar en mostrarles a sus seguidores un poco de amor sufrido si siente que es necesario. Bulliciosa, malhablada y de temperamento fogoso, es venerada como protectora y se la invoca cuando hay personas que necesitan curación, ya sea física o espiritual. A pesar de su lengua afilada y su manera despreocupada, Brigitte es considerada una de las más sabias de los Lwa que componen las familias de gedes. Es la consorte del Barón Samedi y, como él, a menudo actúa como intermediaria entre los mortales y el espíritu creador, Damballa, así como entre los espíritus de los muertos. Y, al igual que Samedi, disfruta de las buenas celebraciones, especialmente las que se realizan en su honor. Pero esto no quiere decir que no se tome en serio su papel de pastora de almas, sobre todo cuando se trata de espíritus de mujeres, por quienes Brigitte siente un afecto especial. Además, vigila las tumbas de sus fieles y ayuda a las almas de los moribundos a pasar sanas y salvas al más allá. También cuida a los que están enfermos, pero que aún no están preparados para morir. En todo, es una cuidadora y una protectora, aunque no siempre amable. Y es en su calidad de protectora como Maman Brigitte se ha visto atraída a la batalla actual. Mientras los monstruos arrasan el mundo, se ve obligada a actuar en defensa de los mortales, tanto si la adoran como si no. Al fin y al cabo, las mejores fiestas son las fiestas de la victoria...",
+    "abilities": [
+      {
+        "name": "Pinchos de alma",
+        "description": "Infligir daño a un enemigo con un ataque básico o habilidad aflige a los enemigos con Pinchos de alma. Al alcanzar 5 cargas, Maman Brigitte absorbe una parte de su alma, inflige daño según la salud que le falta y obtiene un orbe de alma de los dioses enemigos. Los orbes del alma duran 30s.",
+        "details": [
+          {
+            "label": "Daño: (1% de tu poder mágico) por cada 1% de la salud perdida del objetivo/ hasta un máx. de un 60% de ajuste de poder mágico",
+            "value": ""
+          },
+          {
+            "label": "Duración de Pinchos de alma: ",
+            "value": "10s"
+          }
+        ]
+      },
+      {
+        "name": "Truco de fiesta",
+        "description": "Maman Brigitte bebe de su botella y escupe fuego. Los enemigos se prenden fuego, reciben daño cada 0.5s durante 1.5s y se repite si permanecen en el área. Este daño no activa los efectos de objeto. Maman Brigitte es inmune a derribos y canaliza el fuego mientras tenga ron y puede cancelarlo en cualquier momento. Cuando se queda sin ron o al reactivarse, golpea su botella contra el suelo, lo que daña y aturde a los enemigos. El tiempo de reactivación de esta habilidad se reduce según el ron restante cuando ocurre el golpe.",
+        "details": [
+          {
+            "label": "Daño de fuego por tick:",
+            "value": "6/14/22/30/38 (+10% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración del aturdimiento:",
+            "value": "1.2s"
+          },
+          {
+            "label": "Daño por golpe:",
+            "value": "40/80/120/160/200 (+35% de tu Poder mágico)"
+          },
+          {
+            "label": "Tiempo de react. máx.: ",
+            "value": "14s (se reduce más por la reduc. de TR)"
+          }
+        ]
+      },
+
+      {
+        "name": "Madame Colmillos",
+        "description": "La serpiente tatuada de Maman Brigitte, Madame Colmillos, se desliza fuera de su brazo y se convierte en una serpiente espectral que atraviesa a los enemigos, dañando y aplicando la marca de Madame a todos los enemigos golpeados. Los golpes posteriores de Madame Colmillos causan el 15% del daño inicial. Los enemigos con la marca de Madame reciben daño adicional cada vez que Maman Brigitte los hace daño. Este daño adicional no activa los efectos del objeto. Los efectos de Pinchos de alma y de objetos no activan la marca de Madame.",
+        "details": [
+          {
+            "label": "Daño inicial de Madame Colmillos:",
+            "value": "50/75/100/125/150 (+40% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración de la marca de Madame: ",
+            "value": "5s"
+          },
+          {
+            "label": "Daño de la marca de Madame:",
+            "value": "5 (+5% de tu Poder mágico)"
+          }
+        ]
+      },
+      {
+        "name": "Aprovechamiento del espíritu",
+        "description": "Maman Brigitte se envuelve en una energía fantasmal mientras se lanza hacia adelante, atraviesa los muros de los jugadores y daña a los enemigos. Si golpea a un dios enemigo, lo posee, viaja con él y le inflige daño cada 0.5s durante un máximo de 2s. Maman Brigitte puede dejar a su objetivo antes de tiempo reactivando o cancelando esta habilidad. Si permanece durante todo el tiempo, saldrá corriendo cuando expire el tiempo.",
+        "details": [
+          {
+            "label": "Daño por golpe inicial:",
+            "value": "60/90/120/150/180 (+15% de tu Poder mágico)"
+          },
+          {
+            "label": "Daño de posesión por tick:",
+            "value": "20/25/30/35/40 (+10% de tu Poder mágico)"
+          }
+        ]
+      },
+      {
+        "name": "Explosión de almas",
+        "description": "Maman Brigitte obtiene inmunidad al control de masas y reúne un gran orbe de energía de espíritu que lanza al lugar objetivo. El tamaño del orbe está determinado por la cantidad de orbes de alma que Maman Brigitte ha conseguido a través de los Pinchos de alma. Los enemigos golpeados resultan dañados, derribados y reciben la marca de Madame durante 5s. Maman Brigitte pierde todos los orbes de alma después de usar la Explosión de almas.",
+        "details": [
+          {
+            "label": "Daño:",
+            "value": "160/210/260/310/360 (+85% de tu poder mágico)"
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/GodPageHeader-MamanB-2560x917.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-skins/maman_brigitte_standard-maman-brigitte.jpg",
+      "skins": [
+        {
+          "name": "Ascendida",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/maman_brigitte_ascended.jpg"
+        },
+        {
+          "name": "Condesa voraz",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/maman_brigitte_biting-countess.jpg"
+        },
+        {
+          "name": "Dorada",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/maman_brigitte_golden.jpg"
+        },
+        {
+          "name": "Elixir especiado",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/maman_brigitte_spiced-elixir.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
+  }
+]
