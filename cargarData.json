@@ -110,5 +110,117 @@
     "isActive": true,
     "isNew": false,
     "isFreeToPlay": false
+  },
+  {
+    "name": "Afrodita",
+    "pantheon": "GRIEGO",
+    "role": "MAGO",
+    "lore": "Hay muy pocas palabras para describir el esplendor, la magnificencia, la gloria inigualada de Afrodita, diosa de la belleza. Es tan maravillosa que solo mirarla inspira lágrimas, deseo, celos y amor. Sin embargo, debajo de su exterior impecable reside un corazón cargado de inseguridad.Poco atento y horrible de aspecto, su esposo Hefesto sin percatarse de ello, hace que Afrodita se sienta sola y carente de valor. Ella encuentra consuelo en los brazos de otros hombres como Ares o encuentra validación compitiendo en cualquier concurso de belleza que encuentra.En una boda a la que asistieron todos los dioses apareció una manzana con las palabras 'a la más bella' inscritas. Inmediatamente Afrodita, su madre Hera y su hermana Atenea se pusieron a pelear por esta manzana. Zeus eligió a Paris, príncipe de Troya, para que eligiera quién ganaría la fruta. A cambio de ser nombrada la más bella, Afrodita ofreció a cualquier mujer en el mundo para convertirla en esposa de Paris, así que éste aceptó. Sin embargo, eligió a Helena como su esposa y su amor inició la catastrófica batalla de Troya.Ahora comienza una nueva guerra, pero ésta será entre los dioses, no entre hombres. Mientras que el campo de batalla no es lugar para la más bella de todas, Afrodita recuerda la destrucción entre los griegos y los troyanos. Tal vez esta vez su belleza se puede utilizar para detener una guerra en lugar de iniciar otra. Tal vez, esta vez, ella descubrirá su belleza interior.",
+    "abilities": [
+      {
+        "name": "Beso",
+        "description": "Afrodita sopla un beso hacia un dios aliado, convirtiéndolo en su alma gemela y otorgando a ambos un aumento de velocidad de movimiento. Si impacta a un aliado, su tiempo de reactivación será de 1s. Si el beso impacta a un dios enemigo, sufre daño y es aturdido, y el alma gemela de Afrodita se pondrá celosa, lo que aumentará su daño. Además, el alma gemela de Afrodita consigue un 50% de su MP5 y un 10% de su protección física y mágica.",
+        "details": [
+          {
+            "label": "Daño: ",
+            "value": "40/60/80/100/120 (+25% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración del aturdimiento:",
+            "value": "1s"
+          },
+          {
+            "label": "Duración de los celos:",
+            "value": "5s"
+          },
+          {
+            "label": "Velocidad de movimiento: ",
+            "value": "6/7/8/9/10%"
+          },
+          {
+            "label": "Aumento de daño por los celos:",
+            "value": "5/7.5/10/12.5/15%"
+          }
+        ]
+      },
+      {
+        "name": "¡Retrocede!",
+        "description": "Agitada por toda la atención, Afrodita ordena a los enemigos alejarse de ella, causando daño a su alrededor, ralentizándolos un 25% durante 2s y alejándolos 25 unidades de distancia de ella. Si Afrodita tiene un alma gemela, se origina una explosión adicional en ella, causando el mismo daño y ralentizando a los enemigos. Si un enemigo es impactado por ambas explosiones, solo se verá afectado por aquella originada por Afrodita.",
+        "details": [
+          {
+            "label": "Daño:",
+            "value": "80/140/200/260/320 (+70% de tu Poder mágico)"
+          },
+          {
+            "label": "Ralentización:",
+            "value": "25%"
+          }
+        ]
+      },
+
+      {
+        "name": "Aves de Amor",
+        "description": "Afrodita llama a una bandada de palomas hermosas que vuelan hacia adelante en una zona frente a ella. Las palomas rodean a todos los enemigos que se encuentren en su camino haciendo daño cada 0.5s durante 3s. Afrodita y su alma gemela se curan cuando se usa esta habilidad y el tiempo de reactivación se reduce.",
+        "details": [
+          {
+            "label": "Daño por tick: ",
+            "value": "15/25/35/45/55 (+15% de tu Poder mágico)"
+          },
+          {
+            "label": "Reduc. de reactivación:  ",
+            "value": "0.2s por tick"
+          },
+          {
+            "label": "Curación por tick: ",
+            "value": " 7/10/13/16/19 + 2 por nivel"
+          }
+        ]
+      },
+      {
+        "name": "Amor Eterno",
+        "description": "Afrodita promete amor eterno a ella misma y a su alma gemela. Ella y su alma gemela son invulnerables a todo daño y consiguen el efecto de celos por un corto periodo de tiempo. Todos los efectos de control de masas son eliminados cuando es activada esta habilidad.",
+        "details": [
+          {
+            "label": "Duración de la invulnerabilidad: ",
+            "value": "0.8/1.1/1.4/1.7/2s"
+          }
+        ]
+      },
+      {
+        "name": "Centro de Atención",
+        "description": "Afrodita obtiene 4 protecciones físicas y mágicas por cada dios aliado o enemigo dentro de 70 unidades de distancia de ella.",
+        "details": [
+          {
+            "label": "",
+            "value": ""
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/07/Aphrodite.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/aphrodite.jpg",
+      "skins": [
+        {
+          "name": "Abeja reina",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/aphrodite_honey-bee.jpg"
+        },
+        {
+          "name": "Actriz protagonista",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/aphrodite_leading-lady.jpg"
+        },
+        {
+          "name": "Afra Cadabra",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/aphrodite_aphra-cadabra.jpg"
+        },
+        {
+          "name": "Afro-Dita",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/aphrodite_afro-dite.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
   }
 ]
