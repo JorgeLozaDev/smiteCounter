@@ -330,5 +330,113 @@
     "isActive": true,
     "isNew": false,
     "isFreeToPlay": false
+  },
+  {
+    "name": "Ah Muzen Cab",
+    "pantheon": "MAYA",
+    "role": "MACAZADORGO",
+    "lore": "Se dice que la historia la escriben los vencedores, pero ¿Qué ocurre cuando los vencedores se quedan en silencio? Todo lo que pasó antes se perdería. Eventos, mitología, incluso la identidad. Los vencedores -los sobrevivientes -podrían ser cualquiera. Incluso dioses. Ah Muzen Cab sospechosamente carece de un pasado, el dios de las Abejas disfruta de los privilegios de la adoración y de la ceremonia. Privilegios que tal vez, robó.Hace mucho tiempo, el cielo se sostenía sobre la tierra gracias a cuatro seres, el Bacab. Ellos realizaban su tarea sin queja alguna y por su servicio, fueron honrados por los Hombres de Barro quienes vivían de bajo del Bacab. En realidad, el Bacab eran prisioneros, encadenados por el deber. Entonces, una gran inundación consumió la tierra. Aprovechando su oportunidad, el Bacab huyó y el cielo se derrumbó en el mar creciente. En esta terrible tormenta se desvanecieron, para nunca ser vistos otra vez.Cuando los mares volvieron a su estado normal, nuevos Bacab aparecieron para sostener el cielo en lo alto. La tierra volvió a emerger y de ella nació la humanidad. Aparecieron los dioses; los protectores de las fuerzas que sostienen la vida, como la agricultura y la fertilidad. Y la abeja, creadora de la miel que se emplea para endulzar los alimentos, como medicina para los enfermos y para producir aguamiel para los rituales, fue venerada y Ah Muzen Cab llegó, de la nada, como su dios.Ahora, mientras la guerra más grande entre los cielos tenía lugar en la tierra ¿Qué quedará cuando el polvo se asiente? ¿Quién será el victorioso que escribirá la historia? Si Ah Muzen Cab fue, de hecho, uno de los cuatro Bacab originales, él sobrevivió al fin del mundo una vez y se convirtió en un dios ¿De qué poder tomará ventaja esta vez cuando el nuevo mundo surja?",
+    "abilities": [
+      {
+        "name": "¡Abejas!",
+        "description": "Los enemigos afligidos por ¡Abejas! reciben daño cada 0.5s durante 2s y son revelados en el minimapa y se aglomeran alrededor de los enemigos cercanos. Los ataques básicos se reinician y extienden la duración de la pasiva ¡Abejas! en 1s. Este daño no activa los efectos de objeto.",
+        "details": [
+          {
+            "label": "Daño:",
+            "value": "9 (+6% de tu Poder físico)"
+          }
+        ]
+      },
+      {
+        "name": "Colmena",
+        "description": "Los enjambres se agrupan en la ubicación del objetivo terrestre, creando una nueva colmena que proporciona un potenciamiento de velocidad de movimiento, velocidad de ataque y HP5 a Ah Muzen Cab. Las colmenas revelan enemigos a 20 unidades. Las colmenas solo pueden ser destruidas por ataques básicos (máx. 7 colmenas).",
+        "details": [
+          {
+            "label": "HP5:  ",
+            "value": " 20/25/30/35/40"
+          },
+          {
+            "label": "Velocidad de ataque:  ",
+            "value": "10/20/30/40/50%"
+          },
+          {
+            "label": "Velocidad de movimiento: ",
+            "value": "10/15/20/25/30%"
+          }
+        ]
+      },
+      {
+        "name": "Enjambre",
+        "description": "Ah Muzen Cab invoca un gran enjambre de abejas que vuelan hacia delante de él, causando daño a todos los enemigos golpeados y aplicándoles ¡Abejas!",
+        "details": [
+          {
+            "label": "Daño: ",
+            "value": "50/90/130/170/210 (+70% de tu Poder físico)"
+          }
+        ]
+      },
+
+      {
+        "name": "Miel",
+        "description": "Ah Muzen Cab rocía miel durante 4s con su indicador de habilidad sobre el objetivo, ralentizando a todos los enemigos en el área. Las abejas de las colmenas y de la habilidad Enjambre que se encuentren dentro de 90 unidades volarán sobre la miel para protegerla, causando daño cada 0.5s y aplicando ¡Abejas! a todos los enemigos.",
+        "details": [
+          {
+            "label": "Daño por tick: ",
+            "value": "13/25/37/49/61 (+15% de tu Poder físico)"
+          },
+          {
+            "label": "Ralentización:  ",
+            "value": "20%"
+          }
+        ]
+      },
+      {
+        "name": "Aguijón",
+        "description": "Ah Muzen Cab dispara un enorme aguijón que causa daño a todos los enemigos en una línea, clavándose en el primer dios que sea golpeado, aplicando ¡Abejas! y evitando que utilice habilidades de escape durante 3 segundos. Si el objetivo muere al impacto o después de 3 segundos, el aguijón se desprenderá, caerá al suelo y permanecerá ahí 4 segundos. Si Ah Muzen Cab recoge su aguijón, obtendrá una reducción significativa en su tiempo de reactivación en esta habilidad.",
+        "details": [
+          {
+            "label": "Daño:  ",
+            "value": "275/355/435/515/595 (+90% de tu Poder físico)"
+          },
+          {
+            "label": "Reducción de la protección física:  ",
+            "value": "10%"
+          },
+          {
+            "label": "Ralentización: ",
+            "value": "20%"
+          },
+          {
+            "label": "Reducción del tiempo de reactivación: ",
+            "value": "50%"
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/07/AhMuzenCab.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/ah-muzen-cab.jpg",
+      "skins": [
+        {
+          "name": "Avispón Metalico",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_muzen_cab_solid-hornet.jpg"
+        },
+        {
+          "name": "Devorador Oscuro",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_muzen_cab_dark-whisperer.jpg"
+        },
+        {
+          "name": "Señor Liche",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_muzen_cab_lich-lord.jpg"
+        },
+        {
+          "name": "Stingpunk",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_muzen_cab_stingpunk.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
   }
 ]
