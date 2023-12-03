@@ -118,6 +118,16 @@
     "lore": "Hay muy pocas palabras para describir el esplendor, la magnificencia, la gloria inigualada de Afrodita, diosa de la belleza. Es tan maravillosa que solo mirarla inspira lágrimas, deseo, celos y amor. Sin embargo, debajo de su exterior impecable reside un corazón cargado de inseguridad.Poco atento y horrible de aspecto, su esposo Hefesto sin percatarse de ello, hace que Afrodita se sienta sola y carente de valor. Ella encuentra consuelo en los brazos de otros hombres como Ares o encuentra validación compitiendo en cualquier concurso de belleza que encuentra.En una boda a la que asistieron todos los dioses apareció una manzana con las palabras 'a la más bella' inscritas. Inmediatamente Afrodita, su madre Hera y su hermana Atenea se pusieron a pelear por esta manzana. Zeus eligió a Paris, príncipe de Troya, para que eligiera quién ganaría la fruta. A cambio de ser nombrada la más bella, Afrodita ofreció a cualquier mujer en el mundo para convertirla en esposa de Paris, así que éste aceptó. Sin embargo, eligió a Helena como su esposa y su amor inició la catastrófica batalla de Troya.Ahora comienza una nueva guerra, pero ésta será entre los dioses, no entre hombres. Mientras que el campo de batalla no es lugar para la más bella de todas, Afrodita recuerda la destrucción entre los griegos y los troyanos. Tal vez esta vez su belleza se puede utilizar para detener una guerra en lugar de iniciar otra. Tal vez, esta vez, ella descubrirá su belleza interior.",
     "abilities": [
       {
+        "name": "Centro de Atención",
+        "description": "Afrodita obtiene 4 protecciones físicas y mágicas por cada dios aliado o enemigo dentro de 70 unidades de distancia de ella.",
+        "details": [
+          {
+            "label": "",
+            "value": ""
+          }
+        ]
+      },
+      {
         "name": "Beso",
         "description": "Afrodita sopla un beso hacia un dios aliado, convirtiéndolo en su alma gemela y otorgando a ambos un aumento de velocidad de movimiento. Si impacta a un aliado, su tiempo de reactivación será de 1s. Si el beso impacta a un dios enemigo, sufre daño y es aturdido, y el alma gemela de Afrodita se pondrá celosa, lo que aumentará su daño. Además, el alma gemela de Afrodita consigue un 50% de su MP5 y un 10% de su protección física y mágica.",
         "details": [
@@ -185,16 +195,6 @@
             "value": "0.8/1.1/1.4/1.7/2s"
           }
         ]
-      },
-      {
-        "name": "Centro de Atención",
-        "description": "Afrodita obtiene 4 protecciones físicas y mágicas por cada dios aliado o enemigo dentro de 70 unidades de distancia de ella.",
-        "details": [
-          {
-            "label": "",
-            "value": ""
-          }
-        ]
       }
     ],
     "images": {
@@ -216,6 +216,114 @@
         {
           "name": "Afro-Dita",
           "image": "https://webcdn.hirezstudios.com/smite/god-skins/aphrodite_afro-dite.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
+  },
+  {
+    "name": "Agni",
+    "pantheon": "HINDÚ",
+    "role": "MAGO",
+    "lore": "Hay pocos elementos tan destructivos o purificadores como el fuego. Agni, dios del fuego, es la personificación de ambas cualidades, con una cabeza para cada cualidad.A pesar que se debate sobre sus orígenes (hay muchas versiones sobre su creación, desde simplemente el resultado de dos trozos de madera que fueron frotados uno con otro, hasta su surgimiento como producto de la energía cósmica que creó todas las cosas en el inicio de los tiempos) Agni es un dios crucial e importante con muchos deberes en el Panteón. Es el hermano gemelo de Indra, dios de los cielos, la lluvia y jefe entre los guerreros. Lo contrario a Agni, es el jefe entre sacerdotes, con funciones de mensajero entre los mortales y los dioses. Cada ritual hindú u oración es realizado delante de algún fuego.Agni lleva las palabras y los sacrificios de los fieles, viajando entre la tierra y los cielos. Es bienvenido en cada hogar y en cada corazón de sus seguidores.A través de sus llamas, Agni proporciona calor y luz pero además limpia las impurezas. El humo proveniente de sus hogueras, crea el aire y mantiene los cielos en lo alto. El sol, una fuente de fuego en sí mismo, otorga la energía generadora de vida al mundo y sus rayos de luz atraviesan los cielos durante las tormentas.Para toda su amabilidad y servicio, Agni tiene dos caras. Una de ellas es el rostro de la bondad y la pureza, con la que recibe a la gente y a los dioses. Su otra cara, sombría y determinada, guía al dios del Fuego para que pueda desempeñar su rol en el ciclo cósmico de la creación y la destrucción, quemando y oscureciendo todas las atrocidades del mundo hasta hacerlas cenizas.",
+    "abilities": [
+      {
+        "name": "Combustión",
+        "description": "Golpear a un enemigo con un ataque básico proporciona 1 carga de combustión. Golpear a un dios enemigo proporciona 2. Con 4 cargas, la próxima Oleada de fuego o Lluvia de fuego prenderá a todos los enemigos golpeados e infligirá daño cada 0.5s durante 3s.",
+        "details": [
+          {
+            "label": "Daño por tick:",
+            "value": "5 (+8% de tu poder mágico)"
+          }
+        ]
+      },
+      {
+        "name": "Gases nocivos",
+        "description": "Agni invoca una nube de gases nocivos en la ubicación del objetivo, causando daño cada segundo. Usar cualquiera de las habilidades de Agni sobre los gases detonará el gas, y aturdirá y dañará a todos los enemigos en el radio.",
+        "details": [
+          {
+            "label": "Daño por tick:  ",
+            "value": "10/20/30/40/50 (+5% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración de los gases: ",
+            "value": "10s"
+          },
+          {
+            "label": "Duración de los celos:",
+            "value": "5s"
+          },
+          {
+            "label": "Daño de explosión: ",
+            "value": "20/40/60/80/100 (20% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración del aturdimiento: ",
+            "value": "1s"
+          }
+        ]
+      },
+      {
+        "name": "Ola de llamas",
+        "description": "Agni invoca una ola de fuego frente a él que quema a todos los enemigos a su paso. Detona los gases nocivos.",
+        "details": [
+          {
+            "label": "Daño:",
+            "value": "100/155/210/265/320 (+65% de tu Poder mágico)"
+          }
+        ]
+      },
+
+      {
+        "name": "Camino en llamas",
+        "description": "Agni genera un camino de llamas en una carrera hacia delante, dejando un rastro de fuego detrás. Cualquier enemigo que pase por las llamas se incendiará, recibiendo daño cada 0.5s por 2s. Enciende los Gases Nocivos. Agni es inmune al derribo mientras corre.",
+        "details": [
+          {
+            "label": "Daño por tick: ",
+            "value": "20/30/40/50/60 (+15% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración del Camino:  ",
+            "value": "3s"
+          }
+        ]
+      },
+      {
+        "name": "Lluvia de Fuego",
+        "description": "Cada 18 segundos, Agni obtiene un halo ardiente que se puede utilizar para invocar un meteoro gigante en una ubicación objetivo. Puede invocar 1 cada 0.8s. Detona gases nocivos.",
+        "details": [
+          {
+            "label": "Daño:  ",
+            "value": "140/180/220/260/300 (+65% de tu Poder mágico)"
+          },
+          {
+            "label": "Halos máx.:  ",
+            "value": "3"
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/06/Agni.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/agni.jpg",
+      "skins": [
+        {
+          "name": "Acólito Abisal",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/agni_abyssal-acolyte.jpg"
+        },
+        {
+          "name": "Criatura cosida",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/agni_stitched-creation.jpg"
+        },
+        {
+          "name": "Dualidad infinita",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/agni_infinite-duality.jpg"
+        },
+        {
+          "name": "Neurosis",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/agni_shell-shock.jpg"
         }
       ]
     },
