@@ -784,6 +784,106 @@
     "isFreeToPlay": false
   },
   {
+    "name": "Anubis",
+    "pantheon": "EGIPCIO",
+    "role": "MAGO",
+    "lore": "Anubis el de cabeza de chacal mantiene el último juicio sobre los muertos, midiendo cada corazón contra el peso de la verdadNeftis, esposa de Set, dios de la oscuridad, deseaba un hijo, pero su marido era estéril, por lo que Neftis se disfrazó de Isis, la esposa de Osiris, el hermano de Set, y lo sedujo. De esa unión nació Anubis. Osiris cuidaba de Anubis como si fuera su hijo, pero cuando Osiris murió a manos de su malvado hermano, Set, Anubis embalsamó a su padre adoptivo y momificó el cadáver para que no se pudriese. Esta preservación se transmitió a los fieles , pues si era lo suficientemente bueno para los dioses, también era suficientemente bueno para el hombre.Nadie entra al abismo del inframundo sin haber sido probado por Anubis . Cuando se conservan cadáveres, él es el embalsamador. Cuando llega el momento de la sentencia , él es el árbitro final. En su reino, mantiene balanzas legendarias. Por un lado, el enorme peso de Ma'at: la verdad y el orden. Por el otro lado, coloca el corazón de la persona fallecida. En caso de que el peso de Ma'at sea infinitamente mayor que el del corazón, Anubis echa el alma a las profundidades de la oscuridad del inframundo, donde se olvida, para nunca volver a nacer.",
+    "abilities": [
+      {
+        "name": "Tristeza",
+        "description": "Todas las habilidades de Anubis roban protección física y mágica de su objetivo e incrementa su curación obtenida del robo de vida mágico. Estos efectos se acumulan por cada tick de daño de las habilidades de Anubis. Tristeza también le otorga a Anubis un 30% de reducción en la duración de todos los controles de masas.",
+        "details": [
+          {
+            "label": "Protecciones robadas por carga: ",
+            "value": "7"
+          },
+          {
+            "label": "Duración:",
+            "value": "5s"
+          },
+          {
+            "label": "Curación incrementada por carga: ",
+            "value": "20%"
+          },
+          {
+            "label": "Cargas máx.: ",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "name": "Plaga de Langostas",
+        "description": "Una plaga de langostas sale por la boca de Anubis, asfixiando a todos los enemigos en el área y haciendo daño cada 0.25s durante 3s. Anubis es inmune a los derribos mientras canaliza esta habilidad y se mueve a un 50% de velocidad.",
+        "details": [
+          {
+            "label": "Daño por tick: ",
+            "value": "18/26/34/42/50 (+20% de tu Poder mágico)"
+          }
+        ]
+      },
+      {
+        "name": "Momificar",
+        "description": "Anubis dispara un proyectil de vendaje, momificando y aturdiendo a su objetivo.",
+        "details": [
+          {
+            "label": "Duración del aturdimiento: ",
+            "value": "1.6/1.7/1.8/1.9/2s"
+          }
+        ]
+      },
+
+      {
+        "name": "Manos de Codicia",
+        "description": "Anubis pide ayuda del inframundo mientras las manos y garras penetran el suelo en la ubicación del enemigo, infligiendo daño y ralentizando cada 0,5s durante 2s.",
+        "details": [
+          {
+            "label": "Daño por tick: ",
+            "value": "25/40/55/70/85 (+35% de tu Poder mágico)"
+          },
+          {
+            "label": "Ralentización: ",
+            "value": "25%"
+          }
+        ]
+      },
+      {
+        "name": "Mirada Mortal",
+        "description": "Anubis centra toda su energía en una mirada penetrante, haciendo daño a todos los enemigos en su camino cada 0.1s durante 3 segundos.",
+        "details": [
+          {
+            "label": "Daño por tick:",
+            "value": "23/28/33/38/43 (+15% de tu Poder mágico)"
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/07/Anubis.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/anubis.jpg",
+      "skins": [
+        {
+          "name": "K-9",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/anubis_k-9.jpg"
+        },
+        {
+          "name": "Libertador",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/anubis_freedom-retriever.jpg"
+        },
+        {
+          "name": "Muerte críptica",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/anubis_cryptid-death.jpg"
+        },
+        {
+          "name": "Pacto Demoníaco",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/anubis_demonic-pact.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
+  },
+  {
     "name": "",
     "pantheon": "",
     "role": "",
@@ -809,6 +909,7 @@
       },
       {
         "name": "",
+        "description": "",
         "details": [
           {
             "label": "",
