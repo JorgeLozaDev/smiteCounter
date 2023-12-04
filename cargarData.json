@@ -334,7 +334,7 @@
   {
     "name": "Ah Muzen Cab",
     "pantheon": "MAYA",
-    "role": "MACAZADORGO",
+    "role": "CAZADOR",
     "lore": "Se dice que la historia la escriben los vencedores, pero ¿Qué ocurre cuando los vencedores se quedan en silencio? Todo lo que pasó antes se perdería. Eventos, mitología, incluso la identidad. Los vencedores -los sobrevivientes -podrían ser cualquiera. Incluso dioses. Ah Muzen Cab sospechosamente carece de un pasado, el dios de las Abejas disfruta de los privilegios de la adoración y de la ceremonia. Privilegios que tal vez, robó.Hace mucho tiempo, el cielo se sostenía sobre la tierra gracias a cuatro seres, el Bacab. Ellos realizaban su tarea sin queja alguna y por su servicio, fueron honrados por los Hombres de Barro quienes vivían de bajo del Bacab. En realidad, el Bacab eran prisioneros, encadenados por el deber. Entonces, una gran inundación consumió la tierra. Aprovechando su oportunidad, el Bacab huyó y el cielo se derrumbó en el mar creciente. En esta terrible tormenta se desvanecieron, para nunca ser vistos otra vez.Cuando los mares volvieron a su estado normal, nuevos Bacab aparecieron para sostener el cielo en lo alto. La tierra volvió a emerger y de ella nació la humanidad. Aparecieron los dioses; los protectores de las fuerzas que sostienen la vida, como la agricultura y la fertilidad. Y la abeja, creadora de la miel que se emplea para endulzar los alimentos, como medicina para los enfermos y para producir aguamiel para los rituales, fue venerada y Ah Muzen Cab llegó, de la nada, como su dios.Ahora, mientras la guerra más grande entre los cielos tenía lugar en la tierra ¿Qué quedará cuando el polvo se asiente? ¿Quién será el victorioso que escribirá la historia? Si Ah Muzen Cab fue, de hecho, uno de los cuatro Bacab originales, él sobrevivió al fin del mundo una vez y se convirtió en un dios ¿De qué poder tomará ventaja esta vez cuando el nuevo mundo surja?",
     "abilities": [
       {
@@ -432,6 +432,126 @@
         {
           "name": "Stingpunk",
           "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_muzen_cab_stingpunk.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
+  },
+  {
+    "name": "Ah Puch",
+    "pantheon": "MAYA",
+    "role": "MAGO",
+    "lore": "Enterrados debajo de la corteza de la tierra descienden los crueles infiernos de la tormenta. El lugar más importante de los reinos de la tortura y los actos inhumanos más viles; hogar de aquellos que residen en la maldad y la oscuridad. Sin embargo, más allá de ese negro subterráneo, en el más oscuro recreo, se puede encontrar el noveno y horrible infierno. Allí mora una deidad verdaderamente mala, presumiendo un macabro brillo sobre cada cuerpo que ha reclamado y deleitándose con el momento en que estas almas menores se convirtieron en suyas. Él es Ah Puch, el señor todopoderoso del noveno infierno.Cuando cae la noche, Ah Puch vaga por la tierra, coronado con una guirnalda de ojos humanos, una repelente calavera desnuda a la vista de todos, acompañada del chillido de búhos fantasmales. Él tomará cuanto ser vivo se le cruce. Si Ah Puch se encuentra a un humano en la noche, lo matará arrastrando a la infortunada criatura al exilio. Sólo aquellos ya derrotados por sus siervos, aquellos en cautiverio, aquellos atrapados con la panza retorcida lamentándose, gimiendo de agonía y principios de manía, están a salvo de su mano.Escondidos ahora, los hombres y dioses, están durante la hora de la eterna noche. Ah Puch recogerá todo lo que se mueva. Hay varias vacantes en el noveno infierno, y el dios del horror y la decadencia las quiere ocupar.",
+    "abilities": [
+      {
+        "name": "Suelo Maldito",
+        "description": "Ah Puch entra en sintonía con la muerte y puede levantar cuerpos de las tumbas a su voluntad. Cuando camina por encima de un cuerpo en descomposición, Ah Puch reduce el tiempo de reactivación de Oleada de No-Muertos y de Explosión de cuerpos en 2s, restaurando 5% de su salud máxima y 3% de su maná máximo.",
+        "details": [
+          {
+            "label": "",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "name": "Oleada de No-Muertos",
+        "description": "Ah Puch levanta dos cuerpos en descomposición desde el inframundo que surgirán hacia adelante explotando sobre cualquier cosa con la que tengan contacto. Cuando alcanzan su máxima distancia o cuando Ah Puch reactiva la habilidad hacen daño y ralentizan al objetivo que golpean. Los enemigos golpeados también reducen su curación en un 40% durante 5s. Los cuerpos colapsan después de explotar permaneciendo atrás.",
+        "details": [
+          {
+            "label": "Daño: ",
+            "value": "90/110/130/150/170 (+35% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración de la ralentización: ",
+            "value": "2s"
+          },
+          {
+            "label": "Ralentización: ",
+            "value": "20/25/30/35/40%"
+          }
+        ]
+      },
+      {
+        "name": "Explosión de cuerpos",
+        "description": "Ah Puch hace explotar el área objetivo infligiendo daño. Explosión de cuerpos además hace que cualquier cuerpo en descomposición en el área explote.",
+        "details": [
+          {
+            "label": "Daño inicial: ",
+            "value": "60/70/80/90/100 (+20% de tu Poder mágico)"
+          },
+          {
+            "label": "Daño por cada cuerpo: ",
+            "value": "55/80/105/130/155 (+25% de tu Poder mágico)"
+          }
+        ]
+      },
+
+      {
+        "name": "Aliento Fugaz",
+        "description": "Ah Puch lanza un hechizo desde el inframundo que despierta a un cuerpo en descomposición, que a su vez aplica miasma a los objetivos en el área dejando un cuerpo en el suelo. El objetivo recibe daño cada segundo. Cuando finaliza la duración de la habilidad los objetivos reciben daño adicional y son aturdidos si son curados por una habilidad.",
+        "details": [
+          {
+            "label": "Daño por tick: ",
+            "value": "30/40/50/60/70 (+20% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración del aturdimiento: ",
+            "value": "1.5s"
+          },
+          {
+            "label": "Daño adicional: ",
+            "value": "50/100/150/200/250/ (+50% de tu Poder mágico)"
+          },
+          {
+            "label": "Duración: ",
+            "value": "4s"
+          }
+        ]
+      },
+      {
+        "name": "Libera las criptas",
+        "description": "Ah Puch libera un ejército de espectros desde el noveno infierno que se abalanzan hacia delante haciendo daño a los enemigos con los que colisionen.",
+        "details": [
+          {
+            "label": "Daño por espectro: ",
+            "value": "40/50/60/70/80 (+10% de tu Poder mágico)"
+          },
+          {
+            "label": "Reducción de curación 20% por carga",
+            "value": "20%"
+          },
+          {
+            "label": "Duración: ",
+            "value": "6s"
+          },
+          {
+            "label": "Acumulaciones máximas ",
+            "value": "3"
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/07/AhPuch.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/ah-puch.jpg",
+      "skins": [
+        {
+          "name": "AP-15",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_puch_ap-15.jpg"
+        },
+        {
+          "name": "Invasor galáctico",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_puch_galactic-invader.jpg"
+        },
+        {
+          "name": "Nuezcromancia",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_puch_nutcromancer.jpg"
+        },
+        {
+          "name": "Maestro del malware",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ah_puch_malware-master.jpg"
         }
       ]
     },
