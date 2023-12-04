@@ -884,122 +884,214 @@
     "isFreeToPlay": false
   },
   {
-    "name": "",
-    "pantheon": "",
-    "role": "",
-    "lore": "",
+    "name": "Ao Kuang",
+    "pantheon": "CHINO",
+    "role": "MAGO",
+    "lore": "Real y poderoso, el dios dragón del mar oriental reina sobre tormentas y mareas con el chasquido de una garra, mas echa humo de furia por humillaciones pasadas.Como uno de los cuatro dioses dragones, Ao Kuang rinde tributo a aquellos que habitan a lo largo de las orillas del este. Para adorarlos, las olas permanecen en calma, los ríos se contienen y la lluvia abunda sobre los cultivos. Ao Kuang no siempre fue así, hace mucho tiempo, era muy ambicioso y esperaba grandes sacrificios. Cuando no se los ofrecían, enviaba inundaciones, altas olas, tormentas devastadoras; desatando tanto miedo entre la gente que nadie era capaz de contarle al emperador Jade sobre estos violentos ataques.Luego llegó Sun Wukong a su palacio debajo del mar, buscando un arma para su famoso viaje al oeste. A pesar de que le ofrecieron otras armas, Sun Wukong tomó la Ruyi Jingu Bang, un inmenso pilar que ayudaba a controlar las olas. Se creía que nunca nadie había podido levantarlo pero Sun Wukong lo giró con facilidad.Más tarde, el joven semidios Nehza, mientras jugaba en un riachuelo, hizo temblar sin querer el palacio de Ao Kuang. Furioso, el dios-dragón puso en camino a su centinela favorito para matar al niño, pero Nehza se defendió y lo asesinó. Ao Kuang, furioso, ordenó a su tercer hijo que destruyera a Nehza, pero este lo mató también. Completamente indignado, Ao Kuang buscó al padre de Nehza y amenazó con denunciar los asesinatos ante Jade, el emperador, pero Nehza derribó al dragón y lo forzó a rendirse.Tanta verguenza y humillación degradaron a Ao Kuang, enfureciéndolo hasta llevarlo a una determinación radical. Estuvo esperando mucho tiempo una oportunidad para resurgir y ejercer su papel como dios-dragón del mar.",
     "abilities": [
       {
-        "name": "",
-        "description": "",
+        "name": "Espada del Rey Dragón",
+        "description": "Cada 10 segundos, Ao Kuang obtiene una carga de la Espada del Rey Dragón. Con una carga disponible, su próxima habilidad básica que le inflige daño a un dios enemigo recibe reducción de tiempo de reactivación y cura a Ao Kuang. Ejecutar a un dios con su definitiva carga completamente la espada.",
         "details": [
           {
-            "label": "",
+            "label": "Reduc. de reactivación; ",
+            "value": "2s"
+          },
+          {
+            "label": "Cargas máximas",
             "value": ""
           },
           {
-            "label": "",
-            "value": ""
-          },
-          {
-            "label": "",
+            "label": "Curación 3% de tu salud máxima",
             "value": ""
           }
         ]
       },
       {
-        "name": "",
-        "description": "",
+        "name": "Ilusión de agua",
+        "description": "Ao Kuang se teletransporta en sigilo hacia adelante dejando atrás una ilusión de agua con su forma. Permanece en sigilo durante 5s hasta que ejecute un ataque o reciba daño. Ao Kuang puede activar nuevamente su habilidad para detonar la ilusión de agua, infligiendo daño a los enemigos cercanos.",
         "details": [
           {
-            "label": "",
-            "value": ""
-          },
-          {
-            "label": "",
-            "value": ""
-          },
-          {
-            "label": "",
-            "value": ""
-          },
-          {
-            "label": "",
-            "value": ""
+            "label": "Daño: ",
+            "value": "70/120/170/220/270 (+70% de tu Poder mágico)"
           }
         ]
       },
       {
-        "name": "",
-        "description": "",
+        "name": "Llamada del dragón",
+        "description": "Ao Kuang invoca 6 dragones a su alrededor. Con su ataque básico se lanza un dragón contra el objetivo infligiendo daño adicional. Esta habilidad termina cuando todos los dragones son usados o después de 10s. Ao Kuang puede activar esta habilidad nuevamente para enviar a los dragones en un ataque a distancia. Los dragones harán daño y ralentizarán al primer objetivo que golpeen.",
         "details": [
           {
-            "label": "",
-            "value": ""
+            "label": "Daño de ataque: ",
+            "value": "35/50/65/80/95 (+30% de tu Poder mágico) por golpe"
           },
           {
-            "label": "",
-            "value": ""
+            "label": "Ralentización: ",
+            "value": "30% durante 1s + 0.25s por dragón restante"
           },
           {
-            "label": "",
-            "value": ""
+            "label": "Daño a distancia: ",
+            "value": "20/25/30/35/40 (+13% de tu Poder mágico) por dragón restante"
           }
         ]
       },
 
       {
-        "name": "",
-        "description": "",
+        "name": "Tormenta Salvaje",
+        "description": "Ao Kuang libera una tormenta de rayos de su espada que daña a todos los enemigos en frente de él. Este golpe enviará un dragón desde la Llamada del dragón, infligiendo daño a todos los objetivos golpeados.",
         "details": [
           {
-            "label": "",
-            "value": ""
-          },
-          {
-            "label": "",
-            "value": ""
+            "label": "Daño: ",
+            "value": "90/135/180/225/270 (+40% de tu Poder mágico)"
           }
         ]
       },
       {
-        "name": "",
-        "description": "",
+        "name": "Rey de los mares del oriente",
+        "description": "Ao Kuang agarra a un solo objetivo, dañándolo y lanzándolo por los cielos. Si el objetivo está por debajo del umbral de salud, Ao Kuang también revelara su verdadera forma, convirtiéndose en un dragón volador y ejecutando a su objetivo restaurando salud. Después de su transformación Ao Kuang debería elegir una nueva locación para aterrizar, haciendo daño a los enemigos dentro de 20 unidades.",
         "details": [
           {
-            "label": "",
-            "value": ""
+            "label": "Daño: ",
+            "value": "90/140/190/240/290 (+50% de tu Poder mágico)"
           },
           {
-            "label": "",
-            "value": ""
+            "label": "Curación: ",
+            "value": "10/15/20/25/30% de salud máx."
           },
           {
-            "label": "",
-            "value": ""
+            "label": "Umbral de ejecución: ",
+            "value": "30%"
+          },
+          {
+            "label": "Daño al aterrizar: ",
+            "value": "100/150/200/250/300 (+50% de tu Poder mágico)"
           }
         ]
       }
     ],
     "images": {
-      "main": "",
-      "card": "",
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/07/AoKuang.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/ao-kuang.jpg",
       "skins": [
         {
-          "name": "",
-          "image": ""
+          "name": "Almirante",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ao_kuang_admiral.jpg"
         },
         {
-          "name": "",
-          "image": ""
+          "name": "Dragón templario",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ao_kuang_dragon-templar.jpg"
         },
         {
-          "name": "",
-          "image": ""
+          "name": "El dragón elegido",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ao_kuang_the-chosen-dragon.jpg"
         },
         {
-          "name": "",
-          "image": ""
+          "name": "Linaje maldito",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/ao_kuang_cursed-bloodline.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
+  },
+  {
+    "name": "Apolo",
+    "pantheon": "GRIEGO",
+    "role": "CAZADOR",
+    "lore": "No hay quien no sienta admiración por Apolo, dios de la música. Es atrevido, desenfadado y valeroso y tiene el poder de dar esperanza a los desesperados y de cambiar el curso de la batalla con una sola flecha. Soldados, madres, reyes, emperadores, e incluso dioses, cantan melodías en su honor; y él, mientras disfruta de tanta adoración, brilla victorioso.Ni siquiera Hera, reina de los dioses, que desafió su propio nacimiento y envió a la serpiente Pitón para que matase a Apolo, a su hermana melliza Artemisa y a Leto, su madre, puedo negarle la victoria. Con solo cuatro días de vida, Apolo, con su legendario arco, mató a la serpiente de Gea y derrotó a Hera.En su humilde juventud, Apolo se dedicó al pastoreo. El embaucador dios Hermes robó parte del ganado de Apolo y lo llevó a una cueva cercana. Con el caparazón de una Tortuga y el intestino de una vaca creó su primera lira. Apolo encontró a Hermes, y este, al oir el instrumento, quedó prendado por el sonido y le cambió el ganado por la lira. Años después, Hermes envió a su hijo Pan a desafiar a Apolo en un concurso musical, pero Apolo venció sin problemas al sátiro gracias a su virtuosismo con la lira.A la vez que Apolo se iba ganando el lugar que le correspondía entre los dioses, sus victorias se iban acumulando y los fieles cada vez entonaban más canciones en su honor. Ahora claman para que Apolo salga al campo de batalla en el que se enfrentan los dioses. Y él, que no quiere defraudar a su público, se prepara para un último espectáculo.",
+    "abilities": [
+      {
+        "name": "Audacia",
+        "description": "Después de 10 ataques básicos exitosos, Apolo obtiene Audacia y aumenta su velocidad de ataque en 100% y su velocidad de proyectiles de ataque básico durante los próximos 5 ataques (golpee o falle) que haga. Apolo también consigue 1 carga de Audacia por cada habilidad que dañe a los dioses enemigos.",
+        "details": [
+          {
+            "label": "Mejora de velocidad de ataque: ",
+            "value": "100%"
+          },
+          {
+            "label": "Duración de mejora: ",
+            "value": "5 ataques básicos"
+          }
+        ]
+      },
+      {
+        "name": "Tanta belleza",
+        "description": "Apolo rasga una sola cuerda de su lira. Es tan hermoso que duele, y todos los enemigos en el alcance de la línea larga reciben daño.",
+        "details": [
+          {
+            "label": "Daño: ",
+            "value": "90/150/210/270/330 (+85% de tu Poder físico)"
+          }
+        ]
+      },
+      {
+        "name": "Serenata",
+        "description": "Apolo usa su increíble voz para hipnotizar a todos los enemigos a su alrededor al mismo tiempo reforzándose con protecciones adicionales. Cualquier daño que se inflija al objetivo hipnotizado rompe el efecto.",
+        "details": [
+          {
+            "label": "Hipnotizamiento: ",
+            "value": "1.5/1.7/1.9/2.1/2.3s"
+          },
+          {
+            "label": "Duración de la mejora: ",
+            "value": "5s"
+          },
+          {
+            "label": "Protecciones: ",
+            "value": "10/15/20/25/30"
+          }
+        ]
+      },
+
+      {
+        "name": "El Ritmo",
+        "description": "Apolo corre hacia adelante y se desliza sobre sus rodillas, causando daño, derribando hacia los lados a todos sus enemigos y añadiendo una carga de Audacia por cada enemigo que alcance a su paso. Al final del deslizamiento, se reduce la velocidad de movimiento de los enemigos y se incrementa la de él y sus aliados.",
+        "details": [
+          {
+            "label": "Daño: ",
+            "value": "70/115/160/205/250 (+60% de tu Poder físico)"
+          },
+          {
+            "label": "Duración de la mejora: ",
+            "value": "3s"
+          },
+          {
+            "label": "Mejora/Desmejora de velocidad de movimiento: ",
+            "value": "15/17.5/20/22.5/25%"
+          }
+        ]
+      },
+      {
+        "name": "A través del Cielo",
+        "description": "Apolo conduce su carroza a través del cielo, eligiendo cuándo aterrizar e infligiendo daño cada 0.15s durante 0.6s cuando aterriza. Los enemigos impactados por el último tick al aterrizar también se lanzarán por los aires.",
+        "details": [
+          {
+            "label": "Daño por tick: ",
+            "value": "70/95/120/145/170 (+25% de tu Poder físico)"
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/07/Apollo.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/apollo.jpg",
+      "skins": [
+        {
+          "name": "Agente Secreto",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/apollo_elite-agent.jpg"
+        },
+        {
+          "name": "Hopper",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/apollo_hopper.jpg"
+        },
+        {
+          "name": "TSM",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/apollo_team-solomid.jpg"
+        },
+        {
+          "name": "Vicious",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/apollo_vicious.jpg"
         }
       ]
     },
