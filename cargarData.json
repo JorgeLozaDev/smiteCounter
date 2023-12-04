@@ -558,5 +558,129 @@
     "isActive": true,
     "isNew": false,
     "isFreeToPlay": false
+  },
+  {
+    "name": "Amaterasu",
+    "pantheon": "JAPONÉS",
+    "role": "GUERRERO",
+    "lore": "Como el primer rayo del amanecer que cruza el horizonte, antes de que todo lo demás toque la tierra del sol naciente. Esa luz mañanera la cual brinda calor y vida es Amaterasu, la diosa benevolente del sol. Ella es universalmente adorada.Un poco menos lo son sus hermanos, Susano-o, el creador de tormentas, quien celoso de la popularidad de su hermana fue impulsado a quemar los campos dorados de arroz y romper los telares sagrados del pueblo de la diosa. Disminuida por la destrucción, Amaterasu se selló a sí misma en el interior de una profunda caverna. Su gente sufrió por esto y el reino cayó en la oscuridad aplastante.Por un tiempo desconocido, se mantuvo allí, oculta, lejos de las atrocidades del mundo. Hasta que, un día, escuchó ruedos festivos procedentes de afuera. Al comienzo, ella intento ignorarlo, pero la curiosidad le ganó. Moviendo a un lado la gran roca que sellaba la caverna, se asomó con cautela, sólo para mirar en un espejo de bronce pulido. Cegada por su propio reflejo, Amaterasu se vio obligada a arrastrarse más lejos para encontrar la fuente del sonido. Unas manos la agarraron y la liberaron de la caverna. Reunidos alrededor estaban sus amigos y seres queridos. Encima de una tarima bailaba Usume, La diosa de la alegría quien creaba un sonido errático para el disfrute de todos. Amaterasu sonrió y la luz volvió al mundo.Viendo la cantidad de gente que dependía de ella, todos aquellos que la amaban, Amaterasu juro jamás ocultarse otra vez de la calamidad, en vez de eso, la enfrentaría, así como el sol se levanta en el horizonte cada día.",
+    "abilities": [
+      {
+        "name": "Impacto esclarecedor",
+        "description": "Amaterasu Ilumina a los enemigos que ella golpea con sus ataques básicos. Después de 3 golpes en el mismo objetivo el enemigo obtiene un aura, que expone su debilidad y causa que reciba más daño de todas las fuentes. Cualquier otro enemigo que se acerque al objetivo afligido será debilitado.",
+        "details": [
+          {
+            "label": "Aura debilitante: ",
+            "value": "10% daño recibido incrementado"
+          },
+          {
+            "label": "Auras máx. posibles: ",
+            "value": "3"
+          },
+          {
+            "label": "Duración de las cargas/aura: ",
+            "value": "6s"
+          }
+        ]
+      },
+      {
+        "name": "Presencia Divina",
+        "description": "Amaterasu usa el poder de su gema y obtiene velocidad de ataque y se cura a sí misma cada segundo durante 4 segundos. También crea un aura persistente que se aplica a los dioses aliados cercanos. Cada vez que esta habilidad es activada, el aura cambia entre valor y benevolencia.",
+        "details": [
+          {
+            "label": "Curación por tick: ",
+            "value": "10/18/26/34/42"
+          },
+          {
+            "label": "Aura de benevolencia: ",
+            "value": "9/12/15/18/21% de velocidad de movimiento"
+          },
+          {
+            "label": "Velocidad de ataque: ",
+            "value": "15/17.5/20/22.5/25%"
+          },
+          {
+            "label": "Aura de valor: ",
+            "value": "14/18/22/26/30 de bonificación de poder"
+          }
+        ]
+      },
+      {
+        "name": "Reflejo Celestial",
+        "description": "Amaterasu carga su espejo durante 5 segundos. Mientras el espejo está cargando, Amaterasu recibe daño reducido. Activando la habilidad nuevamente o al final de los 5 segundos, disparará el espejo justo hacia delante. El espejo obtendrá cargas al recibir daño o cuando acierte sus ataques, y puede infligir el doble de daño base cuando está completamente cargado.",
+        "details": [
+          {
+            "label": "Mitigación de daño: ",
+            "value": " 7/9/11/13/15%"
+          },
+          {
+            "label": "Daño con carga completa: ",
+            "value": "140/210/280/350/420"
+          },
+          {
+            "label": "Daño del espejo: ",
+            "value": "70/105/140/175/210 (60% de tu Poder físico)"
+          }
+        ]
+      },
+
+      {
+        "name": "Carga gloriosa",
+        "description": "Amaterasu hace destellar luz de su espada sagrada, silenciando a todos los enemigos frente a ella. Luego se abalanza hacia delante infligiendo daño, penetrando a través de los súbditos o deteniéndose con el primer dios golpeado.",
+        "details": [
+          {
+            "label": "Duración del silencio: ",
+            "value": "1s"
+          },
+          {
+            "label": "Daño de la embestida: ",
+            "value": "80/135/190/245/300 (60% de tu Poder físico)"
+          }
+        ]
+      },
+      {
+        "name": "Ofensiva Deslumbrante",
+        "description": "Amaterasu concentra el poder de los cielos en una impresionante combinación de ataques de 3 impactos. El segundo impacto hará 20% más de daño y ralentizará a los enemigos un 30%. El tercer impacto hará 40% más de daño base y aturdirá a los enemigos. Deberá golpear a un enemigo con el 1.er golpe para recibir el daño aumentado y CM con el 2.º golpe. Lo mismo sucede con el 2.º y 3.er golpe.",
+        "details": [
+          {
+            "label": "Daño por impacto: ",
+            "value": "80/125/170/215/260 (+50% de tu Poder físico)"
+          },
+          {
+            "label": "Duración del aturdimiento: ",
+            "value": "2s"
+          },
+          {
+            "label": "Duración de la ralentización: ",
+            "value": "2s"
+          }
+        ]
+      }
+    ],
+    "images": {
+      "main": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2017/07/Amaterasu.jpg",
+      "card": "https://webcdn.hirezstudios.com/smite/god-cards/amaterasu.jpg",
+      "skins": [
+        {
+          "name": "Blake Belladonna",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/amaterasu_blake-belladonna.jpg"
+        },
+        {
+          "name": "Bronceado Perfecto",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/amaterasu_sun-kissed.jpg"
+        },
+        {
+          "name": "Chibi Solar",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/amaterasu_sunny-chibi.jpg"
+        },
+        {
+          "name": "Inu Chibi",
+          "image": "https://webcdn.hirezstudios.com/smite/god-skins/amaterasu_chibi-inu.jpg"
+        }
+      ]
+    },
+    "isActive": true,
+    "isNew": false,
+    "isFreeToPlay": false
   }
 ]
