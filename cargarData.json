@@ -108,7 +108,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -220,7 +220,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -328,7 +328,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -436,7 +436,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -556,7 +556,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -680,7 +680,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -780,7 +780,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -880,7 +880,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -992,7 +992,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   },
   {
@@ -1096,7 +1096,7 @@
       ]
     },
     "isActive": true,
-    "isNew": false,
+    "isNewGod": false,
     "isFreeToPlay": false
   }
 ]
