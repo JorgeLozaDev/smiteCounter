@@ -1,8 +1,8 @@
 [
   {
     "name": "Maman Brigitte",
-    "pantheon": "VUDÚ",
-    "role": "MAGO",
+    "pantheon": "Vudú",
+    "role": "Mago",
     "lore": "Se dice que dondequiera que haya fiesta, Maman Brigitte no estará lejos. Deambula entre los cementerios del mundo, apareciendo ante sus adoradores como una joven elegante y a veces fantasiosa con una taza de ron con pimiento picante en una mano y un cigarro en la otra. Reparte sabiduría e insultos por igual, sin dudar en mostrarles a sus seguidores un poco de amor sufrido si siente que es necesario. Bulliciosa, malhablada y de temperamento fogoso, es venerada como protectora y se la invoca cuando hay personas que necesitan curación, ya sea física o espiritual. A pesar de su lengua afilada y su manera despreocupada, Brigitte es considerada una de las más sabias de los Lwa que componen las familias de gedes. Es la consorte del Barón Samedi y, como él, a menudo actúa como intermediaria entre los mortales y el espíritu creador, Damballa, así como entre los espíritus de los muertos. Y, al igual que Samedi, disfruta de las buenas celebraciones, especialmente las que se realizan en su honor. Pero esto no quiere decir que no se tome en serio su papel de pastora de almas, sobre todo cuando se trata de espíritus de mujeres, por quienes Brigitte siente un afecto especial. Además, vigila las tumbas de sus fieles y ayuda a las almas de los moribundos a pasar sanas y salvas al más allá. También cuida a los que están enfermos, pero que aún no están preparados para morir. En todo, es una cuidadora y una protectora, aunque no siempre amable. Y es en su calidad de protectora como Maman Brigitte se ha visto atraída a la batalla actual. Mientras los monstruos arrasan el mundo, se ve obligada a actuar en defensa de los mortales, tanto si la adoran como si no. Al fin y al cabo, las mejores fiestas son las fiestas de la victoria...",
     "abilities": [
       {
@@ -113,9 +113,9 @@
   },
   {
     "name": "Afrodita",
-    "pantheon": "GRIEGO",
-    "role": "MAGO",
-    "lore": "Hay muy pocas palabras para describir el esplendor, la magnificencia, la gloria inigualada de Afrodita, diosa de la belleza. Es tan maravillosa que solo mirarla inspira lágrimas, deseo, celos y amor. Sin embargo, debajo de su exterior impecable reside un corazón cargado de inseguridad.Poco atento y horrible de aspecto, su esposo Hefesto sin percatarse de ello, hace que Afrodita se sienta sola y carente de valor. Ella encuentra consuelo en los brazos de otros hombres como Ares o encuentra validación compitiendo en cualquier concurso de belleza que encuentra.En una boda a la que asistieron todos los dioses apareció una manzana con las palabras 'a la más bella' inscritas. Inmediatamente Afrodita, su madre Hera y su hermana Atenea se pusieron a pelear por esta manzana. Zeus eligió a Paris, príncipe de Troya, para que eligiera quién ganaría la fruta. A cambio de ser nombrada la más bella, Afrodita ofreció a cualquier mujer en el mundo para convertirla en esposa de Paris, así que éste aceptó. Sin embargo, eligió a Helena como su esposa y su amor inició la catastrófica batalla de Troya.Ahora comienza una nueva guerra, pero ésta será entre los dioses, no entre hombres. Mientras que el campo de batalla no es lugar para la más bella de todas, Afrodita recuerda la destrucción entre los griegos y los troyanos. Tal vez esta vez su belleza se puede utilizar para detener una guerra en lugar de iniciar otra. Tal vez, esta vez, ella descubrirá su belleza interior.",
+    "pantheon": "Griego",
+    "role": "Mago",
+    "lore": "Hay muy pocas palabras para describir el esplendor, la magnificencia, la gloria inigualada de Afrodita, diosa de la belleza. Es tan maravillosa que solo mirarla inspira lágrimas, deseo, celos y amor. Sin embargo, debajo de su exterior impecable reside un corazón cargado de inseguridad.Poco atento y horrible de aspecto, su esposo Hefesto sin percatarse de ello, hace que Afrodita se sienta sola y carente de valor. Ella encuentra consuelo en los brazos de otros hombres como Ares o encuentra validación compitiendo en cualquier concurso de belleza que encuentra.En una boda a la que asistieron todos los dioses apareció una manzana con las palabras 'a la más bella' inscritas. Inmediatamente Afrodita, su madre Hera y su hermana Atenea se pusieron a pelear por esta manzana. Zeus eligió a Paris, príncipe de Troya, para que eligiera quién ganaría la fruta. A cambio de ser nombrada la más bella, Afrodita ofreció a cualquier mujer en el mundo para convertirla en esposa de Paris, así que éste aceptó. Sin embargo, eligió a Helena como su esposa y su amor inició la catastrófica batalla de Troya.Ahora comienza una nueva guerra, pero ésta será entre los dioses, no entre hombres. Mientras que el campo de batalla no es lugar para la más bella de todas, Afrodita recuerda la destrucción entre los Griegos y los troyanos. Tal vez esta vez su belleza se puede utilizar para detener una guerra en lugar de iniciar otra. Tal vez, esta vez, ella descubrirá su belleza interior.",
     "abilities": [
       {
         "name": "Centro de Atención",
@@ -225,9 +225,9 @@
   },
   {
     "name": "Agni",
-    "pantheon": "HINDÚ",
-    "role": "MAGO",
-    "lore": "Hay pocos elementos tan destructivos o purificadores como el fuego. Agni, dios del fuego, es la personificación de ambas cualidades, con una cabeza para cada cualidad.A pesar que se debate sobre sus orígenes (hay muchas versiones sobre su creación, desde simplemente el resultado de dos trozos de madera que fueron frotados uno con otro, hasta su surgimiento como producto de la energía cósmica que creó todas las cosas en el inicio de los tiempos) Agni es un dios crucial e importante con muchos deberes en el Panteón. Es el hermano gemelo de Indra, dios de los cielos, la lluvia y jefe entre los guerreros. Lo contrario a Agni, es el jefe entre sacerdotes, con funciones de mensajero entre los mortales y los dioses. Cada ritual hindú u oración es realizado delante de algún fuego.Agni lleva las palabras y los sacrificios de los fieles, viajando entre la tierra y los cielos. Es bienvenido en cada hogar y en cada corazón de sus seguidores.A través de sus llamas, Agni proporciona calor y luz pero además limpia las impurezas. El humo proveniente de sus hogueras, crea el aire y mantiene los cielos en lo alto. El sol, una fuente de fuego en sí mismo, otorga la energía generadora de vida al mundo y sus rayos de luz atraviesan los cielos durante las tormentas.Para toda su amabilidad y servicio, Agni tiene dos caras. Una de ellas es el rostro de la bondad y la pureza, con la que recibe a la gente y a los dioses. Su otra cara, sombría y determinada, guía al dios del Fuego para que pueda desempeñar su rol en el ciclo cósmico de la creación y la destrucción, quemando y oscureciendo todas las atrocidades del mundo hasta hacerlas cenizas.",
+    "pantheon": "Hindú",
+    "role": "Mago",
+    "lore": "Hay pocos elementos tan destructivos o purificadores como el fuego. Agni, dios del fuego, es la personificación de ambas cualidades, con una cabeza para cada cualidad.A pesar que se debate sobre sus orígenes (hay muchas versiones sobre su creación, desde simplemente el resultado de dos trozos de madera que fueron frotados uno con otro, hasta su surgimiento como producto de la energía cósmica que creó todas las cosas en el inicio de los tiempos) Agni es un dios crucial e importante con muchos deberes en el Panteón. Es el hermano gemelo de Indra, dios de los cielos, la lluvia y jefe entre los Guerreros. Lo contrario a Agni, es el jefe entre sacerdotes, con funciones de mensajero entre los mortales y los dioses. Cada ritual Hindú u oración es realizado delante de algún fuego.Agni lleva las palabras y los sacrificios de los fieles, viajando entre la tierra y los cielos. Es bienvenido en cada hogar y en cada corazón de sus seguidores.A través de sus llamas, Agni proporciona calor y luz pero además limpia las impurezas. El humo proveniente de sus hogueras, crea el aire y mantiene los cielos en lo alto. El sol, una fuente de fuego en sí mismo, otorga la energía generadora de vida al mundo y sus rayos de luz atraviesan los cielos durante las tormentas.Para toda su amabilidad y servicio, Agni tiene dos caras. Una de ellas es el rostro de la bondad y la pureza, con la que recibe a la gente y a los dioses. Su otra cara, sombría y determinada, guía al dios del Fuego para que pueda desempeñar su rol en el ciclo cósmico de la creación y la destrucción, quemando y oscureciendo todas las atrocidades del mundo hasta hacerlas cenizas.",
     "abilities": [
       {
         "name": "Combustión",
@@ -333,8 +333,8 @@
   },
   {
     "name": "Ah Muzen Cab",
-    "pantheon": "MAYA",
-    "role": "CAZADOR",
+    "pantheon": "Maya",
+    "role": "Cazador",
     "lore": "Se dice que la historia la escriben los vencedores, pero ¿Qué ocurre cuando los vencedores se quedan en silencio? Todo lo que pasó antes se perdería. Eventos, mitología, incluso la identidad. Los vencedores -los sobrevivientes -podrían ser cualquiera. Incluso dioses. Ah Muzen Cab sospechosamente carece de un pasado, el dios de las Abejas disfruta de los privilegios de la adoración y de la ceremonia. Privilegios que tal vez, robó.Hace mucho tiempo, el cielo se sostenía sobre la tierra gracias a cuatro seres, el Bacab. Ellos realizaban su tarea sin queja alguna y por su servicio, fueron honrados por los Hombres de Barro quienes vivían de bajo del Bacab. En realidad, el Bacab eran prisioneros, encadenados por el deber. Entonces, una gran inundación consumió la tierra. Aprovechando su oportunidad, el Bacab huyó y el cielo se derrumbó en el mar creciente. En esta terrible tormenta se desvanecieron, para nunca ser vistos otra vez.Cuando los mares volvieron a su estado normal, nuevos Bacab aparecieron para sostener el cielo en lo alto. La tierra volvió a emerger y de ella nació la humanidad. Aparecieron los dioses; los protectores de las fuerzas que sostienen la vida, como la agricultura y la fertilidad. Y la abeja, creadora de la miel que se emplea para endulzar los alimentos, como medicina para los enfermos y para producir aguamiel para los rituales, fue venerada y Ah Muzen Cab llegó, de la nada, como su dios.Ahora, mientras la guerra más grande entre los cielos tenía lugar en la tierra ¿Qué quedará cuando el polvo se asiente? ¿Quién será el victorioso que escribirá la historia? Si Ah Muzen Cab fue, de hecho, uno de los cuatro Bacab originales, él sobrevivió al fin del mundo una vez y se convirtió en un dios ¿De qué poder tomará ventaja esta vez cuando el nuevo mundo surja?",
     "abilities": [
       {
@@ -441,8 +441,8 @@
   },
   {
     "name": "Ah Puch",
-    "pantheon": "MAYA",
-    "role": "MAGO",
+    "pantheon": "Maya",
+    "role": "Mago",
     "lore": "Enterrados debajo de la corteza de la tierra descienden los crueles infiernos de la tormenta. El lugar más importante de los reinos de la tortura y los actos inhumanos más viles; hogar de aquellos que residen en la maldad y la oscuridad. Sin embargo, más allá de ese negro subterráneo, en el más oscuro recreo, se puede encontrar el noveno y horrible infierno. Allí mora una deidad verdaderamente mala, presumiendo un macabro brillo sobre cada cuerpo que ha reclamado y deleitándose con el momento en que estas almas menores se convirtieron en suyas. Él es Ah Puch, el señor todopoderoso del noveno infierno.Cuando cae la noche, Ah Puch vaga por la tierra, coronado con una guirnalda de ojos humanos, una repelente calavera desnuda a la vista de todos, acompañada del chillido de búhos fantasmales. Él tomará cuanto ser vivo se le cruce. Si Ah Puch se encuentra a un humano en la noche, lo matará arrastrando a la infortunada criatura al exilio. Sólo aquellos ya derrotados por sus siervos, aquellos en cautiverio, aquellos atrapados con la panza retorcida lamentándose, gimiendo de agonía y principios de manía, están a salvo de su mano.Escondidos ahora, los hombres y dioses, están durante la hora de la eterna noche. Ah Puch recogerá todo lo que se mueva. Hay varias vacantes en el noveno infierno, y el dios del horror y la decadencia las quiere ocupar.",
     "abilities": [
       {
@@ -561,8 +561,8 @@
   },
   {
     "name": "Amaterasu",
-    "pantheon": "JAPONÉS",
-    "role": "GUERRERO",
+    "pantheon": "Japonés",
+    "role": "Guerrero",
     "lore": "Como el primer rayo del amanecer que cruza el horizonte, antes de que todo lo demás toque la tierra del sol naciente. Esa luz mañanera la cual brinda calor y vida es Amaterasu, la diosa benevolente del sol. Ella es universalmente adorada.Un poco menos lo son sus hermanos, Susano-o, el creador de tormentas, quien celoso de la popularidad de su hermana fue impulsado a quemar los campos dorados de arroz y romper los telares sagrados del pueblo de la diosa. Disminuida por la destrucción, Amaterasu se selló a sí misma en el interior de una profunda caverna. Su gente sufrió por esto y el reino cayó en la oscuridad aplastante.Por un tiempo desconocido, se mantuvo allí, oculta, lejos de las atrocidades del mundo. Hasta que, un día, escuchó ruedos festivos procedentes de afuera. Al comienzo, ella intento ignorarlo, pero la curiosidad le ganó. Moviendo a un lado la gran roca que sellaba la caverna, se asomó con cautela, sólo para mirar en un espejo de bronce pulido. Cegada por su propio reflejo, Amaterasu se vio obligada a arrastrarse más lejos para encontrar la fuente del sonido. Unas manos la agarraron y la liberaron de la caverna. Reunidos alrededor estaban sus amigos y seres queridos. Encima de una tarima bailaba Usume, La diosa de la alegría quien creaba un sonido errático para el disfrute de todos. Amaterasu sonrió y la luz volvió al mundo.Viendo la cantidad de gente que dependía de ella, todos aquellos que la amaban, Amaterasu juro jamás ocultarse otra vez de la calamidad, en vez de eso, la enfrentaría, así como el sol se levanta en el horizonte cada día.",
     "abilities": [
       {
@@ -685,9 +685,9 @@
   },
   {
     "name": "Anhur",
-    "pantheon": "EGIPCIO",
-    "role": "CAZADOR",
-    "lore": "Anhur, el dios egipcio de la guerra con cabeza de león, elimina a sus enemigos con su lanza y su astucia, armas igualmente afiladasComo hijo de Ra, Ahnur y su hermana Bastet viajaban en la barcaza dorada con la que su padre navega a través del cielo cada día. Ellos protegían la barcaza del amanecer al anochecer de la serpiente del mundo, Apep, que acechaba en el horizonte. Valiente, formidable y sobre todo inteligente, Anhur defendió la barcaza con su lanza e ingenio, engañando y distrayendo a la serpiente hasta que la feroz Bastet le dio un impacto mortal. Con Apep fuera del panorama, Ra se convirtió en Faraón, Bastet en la diosa de los gatos y de las mujeres y Anhur se puso el manto del dios de la guerra. Así es que se hizo conocido como el asesino de enemigos.A medida que pasó el tiempo otra diosa felina, Menhet, huyó del Panteón, rechazando a Ra. Anhur prometió traerla de vuelta desde las lejanas tierras de Nubia para apaciguar a su padre, pero cuando por fin se encontró con Menhet, estaba extasiado con ella y se enamoró. Ató una cuerda a su cuello y la llevó a casa, donde solicitó que Menhet se convertirse en su esposa, una bendición que Ra aceptó encantado.Para los egipcios, la guerra es algo más que mera batalla sangrienta, es un medio de romper las cadenas de la tiranía. Se puede encontrar a Anhur a la cabeza de cualquier ataque, aplastando la corrupción y dirigiendo al pueblo hacia la libertad. Mientras que su lanza es mortal, Anhur es astuto e inteligente, capaz de superar a los oponentes como menos se lo esperan.",
+    "pantheon": "Egipcio",
+    "role": "Cazador",
+    "lore": "Anhur, el dios Egipcio de la guerra con cabeza de león, elimina a sus enemigos con su lanza y su astucia, armas igualmente afiladasComo hijo de Ra, Ahnur y su hermana Bastet viajaban en la barcaza dorada con la que su padre navega a través del cielo cada día. Ellos protegían la barcaza del amanecer al anochecer de la serpiente del mundo, Apep, que acechaba en el horizonte. Valiente, formidable y sobre todo inteligente, Anhur defendió la barcaza con su lanza e ingenio, engañando y distrayendo a la serpiente hasta que la feroz Bastet le dio un impacto mortal. Con Apep fuera del panorama, Ra se convirtió en Faraón, Bastet en la diosa de los gatos y de las mujeres y Anhur se puso el manto del dios de la guerra. Así es que se hizo conocido como el asesino de enemigos.A medida que pasó el tiempo otra diosa felina, Menhet, huyó del Panteón, rechazando a Ra. Anhur prometió traerla de vuelta desde las lejanas tierras de Nubia para apaciguar a su padre, pero cuando por fin se encontró con Menhet, estaba extasiado con ella y se enamoró. Ató una cuerda a su cuello y la llevó a casa, donde solicitó que Menhet se convertirse en su esposa, una bendición que Ra aceptó encantado.Para los egipcios, la guerra es algo más que mera batalla sangrienta, es un medio de romper las cadenas de la tiranía. Se puede encontrar a Anhur a la cabeza de cualquier ataque, aplastando la corrupción y dirigiendo al pueblo hacia la libertad. Mientras que su lanza es mortal, Anhur es astuto e inteligente, capaz de superar a los oponentes como menos se lo esperan.",
     "abilities": [
       {
         "name": "Debilitar",
@@ -785,8 +785,8 @@
   },
   {
     "name": "Anubis",
-    "pantheon": "EGIPCIO",
-    "role": "MAGO",
+    "pantheon": "Egipcio",
+    "role": "Mago",
     "lore": "Anubis el de cabeza de chacal mantiene el último juicio sobre los muertos, midiendo cada corazón contra el peso de la verdadNeftis, esposa de Set, dios de la oscuridad, deseaba un hijo, pero su marido era estéril, por lo que Neftis se disfrazó de Isis, la esposa de Osiris, el hermano de Set, y lo sedujo. De esa unión nació Anubis. Osiris cuidaba de Anubis como si fuera su hijo, pero cuando Osiris murió a manos de su malvado hermano, Set, Anubis embalsamó a su padre adoptivo y momificó el cadáver para que no se pudriese. Esta preservación se transmitió a los fieles , pues si era lo suficientemente bueno para los dioses, también era suficientemente bueno para el hombre.Nadie entra al abismo del inframundo sin haber sido probado por Anubis . Cuando se conservan cadáveres, él es el embalsamador. Cuando llega el momento de la sentencia , él es el árbitro final. En su reino, mantiene balanzas legendarias. Por un lado, el enorme peso de Ma'at: la verdad y el orden. Por el otro lado, coloca el corazón de la persona fallecida. En caso de que el peso de Ma'at sea infinitamente mayor que el del corazón, Anubis echa el alma a las profundidades de la oscuridad del inframundo, donde se olvida, para nunca volver a nacer.",
     "abilities": [
       {
@@ -885,8 +885,8 @@
   },
   {
     "name": "Ao Kuang",
-    "pantheon": "CHINO",
-    "role": "MAGO",
+    "pantheon": "Chino",
+    "role": "Mago",
     "lore": "Real y poderoso, el dios dragón del mar oriental reina sobre tormentas y mareas con el chasquido de una garra, mas echa humo de furia por humillaciones pasadas.Como uno de los cuatro dioses dragones, Ao Kuang rinde tributo a aquellos que habitan a lo largo de las orillas del este. Para adorarlos, las olas permanecen en calma, los ríos se contienen y la lluvia abunda sobre los cultivos. Ao Kuang no siempre fue así, hace mucho tiempo, era muy ambicioso y esperaba grandes sacrificios. Cuando no se los ofrecían, enviaba inundaciones, altas olas, tormentas devastadoras; desatando tanto miedo entre la gente que nadie era capaz de contarle al emperador Jade sobre estos violentos ataques.Luego llegó Sun Wukong a su palacio debajo del mar, buscando un arma para su famoso viaje al oeste. A pesar de que le ofrecieron otras armas, Sun Wukong tomó la Ruyi Jingu Bang, un inmenso pilar que ayudaba a controlar las olas. Se creía que nunca nadie había podido levantarlo pero Sun Wukong lo giró con facilidad.Más tarde, el joven semidios Nehza, mientras jugaba en un riachuelo, hizo temblar sin querer el palacio de Ao Kuang. Furioso, el dios-dragón puso en camino a su centinela favorito para matar al niño, pero Nehza se defendió y lo asesinó. Ao Kuang, furioso, ordenó a su tercer hijo que destruyera a Nehza, pero este lo mató también. Completamente indignado, Ao Kuang buscó al padre de Nehza y amenazó con denunciar los asesinatos ante Jade, el emperador, pero Nehza derribó al dragón y lo forzó a rendirse.Tanta verguenza y humillación degradaron a Ao Kuang, enfureciéndolo hasta llevarlo a una determinación radical. Estuvo esperando mucho tiempo una oportunidad para resurgir y ejercer su papel como dios-dragón del mar.",
     "abilities": [
       {
@@ -997,8 +997,8 @@
   },
   {
     "name": "Apolo",
-    "pantheon": "GRIEGO",
-    "role": "CAZADOR",
+    "pantheon": "Griego",
+    "role": "Cazador",
     "lore": "No hay quien no sienta admiración por Apolo, dios de la música. Es atrevido, desenfadado y valeroso y tiene el poder de dar esperanza a los desesperados y de cambiar el curso de la batalla con una sola flecha. Soldados, madres, reyes, emperadores, e incluso dioses, cantan melodías en su honor; y él, mientras disfruta de tanta adoración, brilla victorioso.Ni siquiera Hera, reina de los dioses, que desafió su propio nacimiento y envió a la serpiente Pitón para que matase a Apolo, a su hermana melliza Artemisa y a Leto, su madre, puedo negarle la victoria. Con solo cuatro días de vida, Apolo, con su legendario arco, mató a la serpiente de Gea y derrotó a Hera.En su humilde juventud, Apolo se dedicó al pastoreo. El embaucador dios Hermes robó parte del ganado de Apolo y lo llevó a una cueva cercana. Con el caparazón de una Tortuga y el intestino de una vaca creó su primera lira. Apolo encontró a Hermes, y este, al oir el instrumento, quedó prendado por el sonido y le cambió el ganado por la lira. Años después, Hermes envió a su hijo Pan a desafiar a Apolo en un concurso musical, pero Apolo venció sin problemas al sátiro gracias a su virtuosismo con la lira.A la vez que Apolo se iba ganando el lugar que le correspondía entre los dioses, sus victorias se iban acumulando y los fieles cada vez entonaban más canciones en su honor. Ahora claman para que Apolo salga al campo de batalla en el que se enfrentan los dioses. Y él, que no quiere defraudar a su público, se prepara para un último espectáculo.",
     "abilities": [
       {
